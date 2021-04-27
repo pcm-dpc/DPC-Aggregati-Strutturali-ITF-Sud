@@ -177,21 +177,56 @@ http://www.sit.puglia.it/portal/portale_cartografie_tecniche_tematiche/Download/
 
 ## Licenza dei dati originali
 
-**SARDEGNA**
+***ABRUZZO**
 
-**Licenza dataset originale:** CC BY 4.0
+**Licenza dataset originale:** CC-BY-NC
+
+**Autorizzazione specifica:** Nota del 29 gennaio 2021 Regione Abruzzo DPB012 – Servizio Informatica e 
+Statistica
+
+**Attribuzione richiesta:** Regione Abruzzo
+
+**BASILICATA**
+
+**Licenza dataset originale:** IODL 2.0
 
 **Autorizzazione specifica:** NO
 
-**Attribuzione richiesta:** Regione Sardegna
+**Attribuzione richiesta:** Regione Basilicata
 
-**SICILIA**
+**CALABRIA**
+
+**Licenza dataset originale:** IODL 2.0
+
+**Autorizzazione specifica:** NO
+
+**Attribuzione richiesta:** Regione Calabria
+
+**CAMPANIA**
+
+**Licenza dataset originale:** DGR n. 301/2014
+
+**Autorizzazione specifica:** Nota del 15 gennaio 2021 Giunta Regionale della Campania – DG Governo 
+del Territorio – Ufficio di Staff Tecnico Operativo 50.09.92
+
+**Attribuzione richiesta:** Regione Campania
+
+**MOLISE**
 
 **Licenza dataset originale:** Non presente
 
-**Autorizzazione specifica:** Nota del 3 febbraio 2021 Regione Sicilia Dipartimento Regionale Protezione Civile – Servizio Sismico e Vulcanico – S.03 di concerto con Assessorato del Territorio e dell’Ambiente – Dipartimento di Urbanistica.
+**Autorizzazione specifica:** Nota del 17 dicembre 2020 dell’Agenzia delle Entrate – Direzione Centrale 
+Servizi Catastali, Cartografici e di Pubblicità Immobiliare
 
-**Attribuzione richiesta:** Regione Sicilia
+**Attribuzione richiesta:** Agenzia delle Entrate
+
+**PUGLIA**
+
+**Licenza dataset originale:** IODL 2.0
+
+**Autorizzazione specifica:** NO
+
+**Attribuzione richiesta:** Regione Puglia
 
 ## Sistemi di riferimento dei dati originali
 
