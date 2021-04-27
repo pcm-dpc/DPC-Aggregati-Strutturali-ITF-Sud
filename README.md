@@ -113,25 +113,67 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 ## Fonti dei dati originali
 
-**SARDEGNA**
+**ABRUZZO**
 
-**Disponibili nel Web:** http:**//www.sardegnageoportale.it/areetematiche/databasegeotopografico/ 
+**Disponibili nel Web:** http://opendata.regione.abruzzo.it/content/dbtr-regione-abruzzo-scala-15000-edizione-2007-formato-shp
+
+**Tipo:** DBTR(Intesa GIS 2006)
+
+**Edizione:** 2007
+
+**Scala:** 5000
+
+**BASILICATA**
+
+**Disponibili nel Web:** http://dati.regione.basilicata.it/catalog/dataset/database-topografico-tema-edificato 
 
 **Tipo:** DBT(DM2011)
 
-**Edizione:** 2013/2020
+**Edizione:** 2015
 
-**Scala:** 10000/2000
+**Scala:** 5000
 
-**SICILIA**
+**CALABRIA**
 
-**Disponibili nel Web:** La Regione Sicilia ha trasmesso la cartografia a seguito di una richiesta del Dipartimento.
+**Disponibili nel Web:** http://geoportale.regione.calabria.it/web/geoportale/opendata
 
-**Tipo:** CTR
+**Tipo:** DBT(DM2011)
 
-**Edizione:** 2012/2013+agg.
+**Edizione:** 2008
 
-**Scala:** 10000
+**Scala:** 5000
+
+**CAMPANIA**
+
+**Disponibili nel Web:** La Regione Campania ha trasmesso i dati a seguito di richiesta del DPC, nell’ambito delle attività di Pianificazione di emergenza per il rischio vulcanico del Vesuvio e dei Campi Flegrei e dell’esercitazione di livello nazionale per il rischio vulcanico “Campi Flegrei 2019”.
+
+**Tipo:** DBT(DM2011)
+
+**Edizione:** 2011
+
+**Scala:** 5000
+
+**MOLISE**
+
+**Disponibili nel Web:** La Regione Molise non rende disponibile la propria Cartografia Tecnica Regionale in forma vettoriale. A seguito di richiesta è emerso che la cartografia disponibile non era completa e, pertanto, si è deciso di utilizzare la copertura cartografica dei fabbricati richiesti e forniti dall’Agenzia delle Entrate.
+
+**Tipo:** Catasto
+
+**Edizione:** 2020
+
+**Scala:** 2000
+
+**PUGLIA**
+
+**Disponibili nel Web:** 
+http://www.sit.puglia.it/portal/portale_cartografie_tecniche_tematiche/Download/Cartografie; per il metadato vedi  http://repertorio.sit.puglia.it/geonetwork/srv/ita/main.home?uuid=r_puglia:bd0db757-4c3f-49cc-a251-9c09414ba0d0
+
+**Tipo:** DBT(DM2011)
+
+**Edizione:** 2011
+
+**Scala:** 5000
+
 
 ## Licenza dei dati originali
 
