@@ -230,17 +230,41 @@ Servizi Catastali, Cartografici e di Pubblicità Immobiliare
 
 ## Sistemi di riferimento dei dati originali
 
-**SARDEGNA**
+**ABRUZZO**
 
-**Sistema Riferimento:** WGS_1984_UTM_Zone_32N
+**Sistema Riferimento:** WGS_1984_UTM_Zone_33N
 
-**EPSG:** 32632
+**EPSG:** 32633
 
-**SICILIA**
+**BASILICATA**
 
-**Sistema Riferimento:** RDN2008_UTM_zone_33N
+**Sistema Riferimento:** ETRS_1989_UTM_Zone_33N
 
-**EPSG:** 6708
+**EPSG:** 25833
+
+**CALABRIA**
+
+**Sistema Riferimento:** ETRS_1989_UTM_Zone_33N
+
+**EPSG:** 25833
+
+**CAMPANIA**
+
+**Sistema Riferimento:** ETRS_1989_UTM_Zone_33N
+
+**EPSG:** 25833
+
+**MOLISE**
+
+**Sistema Riferimento:** GCS_RDN2008
+
+**EPSG:** 6706
+
+**PUGLIA**
+
+**Sistema Riferimento:** WGS_1984_UTM_Zone_33N
+
+**EPSG:** 32633
 
 ## DESCRIZIONE DEGLI AGGREGATI STRUTTURALI
 In questa sezione viene descritta in maggior dettaglio la serie dei dataset degli Aggregati Strutturali che rappresentano il risultato dell'elaborazione dei dati originali precedentemente descritti.
