@@ -177,7 +177,7 @@ http://www.sit.puglia.it/portal/portale_cartografie_tecniche_tematiche/Download/
 
 ## Licenza dei dati originali
 
-***ABRUZZO**
+**ABRUZZO**
 
 **Licenza dataset originale:** CC-BY-NC
 
@@ -322,17 +322,42 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 ## Occupazione di memoria Regionale
 
-**SARDEGNA**
+**ABRUZZO**
 
-**Size (Mb):** 326
+**Size (Mb):** 200
 
-**Numero delle features:** 505518
+**Numero delle features:** 554247
 
-**SICILIA**
+**BASILICATA**
 
-**Size (Mb):** 506
+**Size (Mb):** 172
 
-**Numero delle features:** 1564033
+**Numero delle features:** 315163
+
+**CALABRIA**
+
+**Size (Mb):** 346
+
+**Numero delle features:** 915619
+
+**CAMPANIA**
+
+**Size (Mb):** 763
+
+**Numero delle features:** 1373678
+
+**MOLISE**
+
+**Size (Mb):** 51,9
+
+**Numero delle features:** 138596
+
+**PUGLIA**
+
+**Size (Mb):** 517
+
+**Numero delle features:** 1328278
+
 
 ## Aggiornamento dei dati
 Non pianificato
