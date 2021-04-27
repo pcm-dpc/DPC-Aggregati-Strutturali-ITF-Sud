@@ -49,37 +49,62 @@ A ciascun gruppo è associato un proprio identificativo composto da una sequenza
 <img src="https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/RipartizioniISTAT.PNG" />
 
 ```
-DPC-Aggregati-Strutturali-ITG-Isole/│
-├── Isole/
-│   ├── Sardegna/
-│   │   ├── Cagliari/
+DPC-Aggregati-Strutturali-ITF-Sud/
+│
+├── Sud/
+│   ├── Abruzzo/
+│   │   ├── Chieti/
 │   │   │   ├── shapefile comuni
-│   │   ├── Nuoro/
+│   │   ├── LAquila/
 │   │   │   ├── shapefile comuni
-│   │   ├── Oristano/
+│   │   ├── Pescara/
 │   │   │   ├── shapefile comuni
-│   │   ├── Sassari/
+│   │   ├── Teramo/
 │   │   │   ├── shapefile comuni
-│   │   ├── SudSardegna/
+│   ├── Basilicata/
+│   │   ├── Matera/
 │   │   │   ├── shapefile comuni
-│   ├── Sicilia/
-│   │   ├── Agrigento/
+│   │   ├── Potenza/
 │   │   │   ├── shapefile comuni
-│   │   ├── Caltanissetta/
+│   ├── Calabria/
+│   │   ├── Catanzaro/
 │   │   │   ├── shapefile comuni
-│   │   ├── Catania/
+│   │   ├── Cosenza/
 │   │   │   ├── shapefile comuni
-│   │   ├── Enna/
+│   │   ├── Crotone/
 │   │   │   ├── shapefile comuni
-│   │   ├── Messina/
+│   │   ├── ReggioCalabria/
 │   │   │   ├── shapefile comuni
-│   │   ├── Palermo/
+│   │   ├── ViboValentia/
 │   │   │   ├── shapefile comuni
-│   │   ├── Ragusa/
+│   ├── Campania/
+│   │   ├── Avellino/
 │   │   │   ├── shapefile comuni
-│   │   ├── Siracusa/
+│   │   ├── Benevento/
 │   │   │   ├── shapefile comuni
-│   │   ├── Trapani/
+│   │   ├── Caserta/
+│   │   │   ├── shapefile comuni
+│   │   ├── Napoli/
+│   │   │   ├── shapefile comuni
+│   │   ├── Salerno/
+│   │   │   ├── shapefile comuni
+│   ├── Molise/
+│   │   ├── Campobasso/
+│   │   │   ├── shapefile comuni
+│   │   ├── Isernia/
+│   │   │   ├── shapefile comuni
+│   ├── Puglia/
+│   │   ├── Bari/
+│   │   │   ├── shapefile comuni
+│   │   ├── BarlettaAndriaTrani/
+│   │   │   ├── shapefile comuni
+│   │   ├── Brindisi/
+│   │   │   ├── shapefile comuni
+│   │   ├── Foggia/
+│   │   │   ├── shapefile comuni
+│   │   ├── Lecce/
+│   │   │   ├── shapefile comuni
+│   │   ├── Taranto/
 │   │   │   ├── shapefile comuni
 ```
 
