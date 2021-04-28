@@ -348,37 +348,37 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **ABRUZZO**
 
-**Size (Mb):** 200
+**Size (Mb):** 165
 
 **Numero delle features:** 554247
 
 **BASILICATA**
 
-**Size (Mb):** 172
+**Size (Mb):** 152
 
 **Numero delle features:** 315163
 
 **CALABRIA**
 
-**Size (Mb):** 346
+**Size (Mb):** 288
 
 **Numero delle features:** 915619
 
 **CAMPANIA**
 
-**Size (Mb):** 763
+**Size (Mb):** 642
 
-**Numero delle features:** 1373678
+**Numero delle features:** 1373656
 
 **MOLISE**
 
-**Size (Mb):** 51,9
+**Size (Mb):** 43,8
 
 **Numero delle features:** 138596
 
 **PUGLIA**
 
-**Size (Mb):** 517
+**Size (Mb):** 433
 
 **Numero delle features:** 1328278
 
